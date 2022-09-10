@@ -1,5 +1,6 @@
 ###[Turn An Excel Sheet Into An Interactive Dashboard Using Python (Streamlit)](https://www.youtube.com/watch?v=Sb0A9i6d320)  
 ###[将Jupyter Notebook变成Web APP：Voila](https://zhuanlan.zhihu.com/p/127300044)  
 ###[Convert Jupyter Notebook to Web App with Mercury - BudapestML Forum 2022](https://www.youtube.com/watch?v=wYq1MV_TNSo)  
+###http://localhost:8888/voila/render/20220910.ipynb?  Windows 10, Python 3.7, slow   
 ###[]()  
 ###[]()  
