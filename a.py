@@ -28,6 +28,8 @@ df = get_data_from_excel()
 
 # ---- SIDEBAR ----
 #st.sidebar.header("Please Filter Here:")
+# Mandalay 曼德勒, Naypyitaw 內比都, Yangon 仰光.
+#
 st.sidebar.header("请在此处筛选：")
 city = st.sidebar.multiselect(
     "选择城市:",
