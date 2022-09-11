@@ -10,6 +10,11 @@
 ###[使用Streamlit快速搭建数据科学Web App](https://zhuanlan.zhihu.com/p/163927661) 🔴🔴🔴🔴🔴  
 ### df = get_data_from_excel()  
 ![df = get_data_from_excel()](./images/get_data_from_excel.png)  
+###[最新Pandas.read_excel()全参数详解（案例实操，如何利用python导入excel）](https://zhuanlan.zhihu.com/p/142972462)  
+###[Python——数据分析，原来女孩子喜欢这些礼物](https://zhuanlan.zhihu.com/p/486275775)  
+###[用Python制作销售数据可视化看板，展示分析一步到位](https://www.cnblogs.com/1234567FENG/p/16378938.html)🔴🔴🔴🔴🔴  
+###[How To Get The Row Count Of a Pandas DataFrame](https://towardsdatascience.com/how-to-get-the-row-count-of-a-pandas-dataframe-be67232ad5de)  
+###[]()  
 ###[]()  
 ###[]()  
 ###[]()  
