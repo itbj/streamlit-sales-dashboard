@@ -6,7 +6,11 @@
 ###[ngrok](https://voila.readthedocs.io/en/stable/deploy.html#sharing-voila-applications-with-ngrok)  
 ###[如何部署Jupyter Notebook用于交互式Python开发？](https://baijiahao.baidu.com/s?id=1686377715515576202&wfr=spider&for=pc)  
 ###[py -m pip install --upgrade pip](https://pip.pypa.io/en/stable/installation/)  
+###[Awesome Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit)🔴🔴🔴🔴🔴  
+###[使用Streamlit快速搭建数据科学Web App](https://zhuanlan.zhihu.com/p/163927661) 🔴🔴🔴🔴🔴  
 ###[]()  
 ###[]()  
 ###[]()  
-
+###[]()  
+###[]()  
+###[]()  
