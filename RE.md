@@ -8,6 +8,8 @@
 ###[py -m pip install --upgrade pip](https://pip.pypa.io/en/stable/installation/)  
 ###[Awesome Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit)🔴🔴🔴🔴🔴  
 ###[使用Streamlit快速搭建数据科学Web App](https://zhuanlan.zhihu.com/p/163927661) 🔴🔴🔴🔴🔴  
+### df = get_data_from_excel()  
+![df = get_data_from_excel()](./images/get_data_from_excel.png)  
 ###[]()  
 ###[]()  
 ###[]()  
